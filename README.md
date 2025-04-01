@@ -10,8 +10,7 @@
             <ul>
                 <li>🔭 Exploring projects like <strong>RetroChat</strong>.</li>
                 <li>🎓 Aspiring <strong>Software Development Engineer</strong>.</li>
-                <li>🌌 Inspired by movies and creativity fuels my code.</li>
-                <li>🌱 Diving deeper into recursion and socket programming.</li>
+                <li>🌌 Inspired by movies and creativity fuels my code.</li
             </ul>
         </div>
         <div class="card">
@@ -36,7 +35,7 @@
             <h2>🎬 Favorites</h2>
             <ul>
                 <li><strong>Movies:</strong> Gladiator, WALL-E, Ex Machina</li>
-                <li><strong>Series:</strong> Stranger Things, Narcos</li>
+                <li><strong>Series:</strong> Stranger Things, Narcos, Adolescence</li>
             </ul>
         </div>
     </div>
