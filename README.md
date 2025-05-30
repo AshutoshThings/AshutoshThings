@@ -9,16 +9,16 @@
 <!-- Typing Animation (Green #189521) -->
 <img src="https://readme-typing-svg.herokuapp.com?font=Codystar&size=25&duration=3000&pause=1000&color=189521&center=true&vCenter=true&width=650&lines=Linux+Fanatic+💻;Creative+Explorer+🚀;Coffee+Powered+Coder+☕;Always+Learning..." alt="Typing SVG" />
 
----
 
-### 👨‍💻 About Me  
+# 👨‍💻 About Me  
 
 - First-year CS Student  
 - Tech Enthusiast  
-- Minimal but Funky Vibes Lover  
-- Forever Curious  
-
+- Forever Curious 
+- Sophomore student at JIIT,Noida.  
+ 
 ---
+
 
 ### 🛠️ Tech Stack  
 
