@@ -53,7 +53,7 @@
 
 <div align="center">
 
-<i>"Minimal from the outside, messy from the inside (like my code)."</i>
+<i>"I spend more time customizing my computer than actually using it — average Linux user :|"</i>
 
 </div>
 
