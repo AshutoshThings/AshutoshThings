@@ -12,10 +12,9 @@
 
 # 👨‍💻 About Me  
 
-- First-year CS Student  
 - Tech Enthusiast  
 - Forever Curious 
-- Sophomore student at JIIT,Noida.  
+- CS Sophomore at JIIT,Noida.  
  
 ---
 
